@@ -20,13 +20,7 @@
 ## 🌱 Currently Learning  
 - Advanced React patterns  
 - Performance optimization techniques  
-- Accessibility best practices  
-
-## 📈 GitHub Stats  
-
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aonass&show_icons=true&theme=radical)](https://github.com/Aonass)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aonass&layout=compact&theme=radical)](https://github.com/Aonass)  
+- Accessibility best practices    
 
 ## 💬 Let's Connect  
 
