@@ -32,16 +32,23 @@ Let’s create something exceptional together! 🚀
 
 - Work in
 
-[![My Skills](https://skillicons.dev/icons?i=figma,photoshop,illustrator,)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=figma,photoshop,illustrator,)
 
 ### Also im beginer frontend developer
 
 - Work in
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=html,css,js)
 
 ---
 
 # For Contact
 📧 **Email:** [akmalroziqov.work@gmail.com](mailto:akmalroziqov.work@gmail.com)  
+
+[![email](https://skillicons.dev/icons?i=gmail)](mailto:akmalroziqov.work@gmail.com)
+[![instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/r_aonas/)
+[![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/akmalroziqov/)
+[![telegram](https://github.com/CLorant/readme-social-icons/blob/main/large/filled/telegram.svg)](https://t.me/morganjohnes)
+
+
 
