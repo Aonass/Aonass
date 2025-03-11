@@ -38,7 +38,7 @@ Let’s create something exceptional together! 🚀
 
 - Work in
 
-![My Skills](https://skillicons.dev/icons?i=html,css,js)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://www.youtube.com/watch?v=OCxyvrhnKQY&t=16s)
 
 ---
 
