@@ -29,7 +29,7 @@ Let’s create something exceptional together! 🚀
 
 - Work in
 
-![My Skills](https://skillicons.dev/icons?i=figma,photoshop,illustrator,)
+[![My Skills](https://skillicons.dev/icons?i=figma,photoshop,illustrator,)](https://youtu.be/2xomWWncop0?si=1HjqzFaLBgm87vV_)
 
 ### Also im beginer frontend developer
 
