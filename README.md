@@ -45,7 +45,7 @@ Let’s create something exceptional together! 🚀
 [![email](https://skillicons.dev/icons?i=gmail)](mailto:akmalroziqov.work@gmail.com)
 [![instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/r_aonas/)
 [![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/akmalroziqov/)
-[![telegram](https://github.com/CLorant/readme-social-icons/blob/main/large/filled/telegram.svg)](https://t.me/morganjohnes)
+[![telegram](https://github.com/CLorant/readme-social-icons/blob/main/large/filled/telegram.svg)](https://t.me/aonas)
 
 
 
